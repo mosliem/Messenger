@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Messenger/Pods-Messenger-resources.sh
+${PODS_ROOT}/MessageKit/Sources/Assets.xcassets
+${PODS_CONFIGURATION_BUILD_DIR}/SKFloatingTextField/SKFloatingTextField.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/gRPC-C++/gRPCCertificates-Cpp.bundle
